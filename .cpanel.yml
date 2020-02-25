@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/devabear/public_html/JHYOUNG/
+    - export DEPLOYPATH=/home/devabear/public_html/JHYOUNG/DEV
     - /bin/cp -R /home/devabear/repositories/WEB_JHYoung/DEV $DEPLOYPATH
