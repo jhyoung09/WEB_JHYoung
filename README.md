@@ -8,14 +8,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://hunteryoung.dev-abeardedowl.com/">
+  <a href="https://jameshunteryoung.me">
     <img src="./jhy_logo.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">James Hunter Young</h3>
 
   <p align="center">
-    My Personal Website in Development
+    My Personal Website in Production
     <br />
     <a href="https://hunteryoung.dev-abeardedowl.com/"><strong>Explore the site »</strong></a>
     <br />
