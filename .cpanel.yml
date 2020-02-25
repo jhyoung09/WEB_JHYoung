@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/devabear/public_html/hunteryoung/
+    - /bin/cp -R /home/devabear/git_repos/hunteryoung/DEV $DEPLOYPATH
