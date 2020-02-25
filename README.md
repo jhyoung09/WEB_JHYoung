@@ -20,13 +20,13 @@
     <a href="https://hunteryoung.dev-abeardedowl.com/"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung/">View Demo</a>
+    <a href="https://github.com/jhyoung09/WEB_JHYoung">View Demo</a>
     ·
-    <a href="https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung/issues">Report Bug</a>
+    <a href="https://github.com/jhyoung09/WEB_JHYoung/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung/issues">Request Feature</a>
+    <a href="https://github.com/jhyoung09/WEB_JHYoung/issues">Request Feature</a>
     ·
-    <a href="https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung/pulls">Send a Pull Request</a>
+    <a href="https://github.com/jhyoung09/WEB_JHYoung/pulls">Send a Pull Request</a>
   </p>
 </p>
 
@@ -59,7 +59,7 @@ This site has been built with:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jhyoung09/WEB_JHYoung/issues) for a list of proposed features (and known issues).
 
 
 
@@ -81,8 +81,7 @@ Contributions are what make the open source community such an amazing place to b
 
 James Hunter Young - hnter@youngs.us
 
-Project Link: [https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung](https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung)
-
+Project Link: [https://github.com/jhyoung09/WEB_JHYoung](https://github.com/jhyoung09/WEB_JHYoung
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -98,11 +97,11 @@ Project Link: [https://github.com/jhyoung09/WEB_DEV-JamesHunterYoung](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/jhyoung09/WEB_DEV-JamesHunterYoung?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/jhyoung09/WEB_JHYoung?style=flat-square
 [forks-url]: https://github.com/jhyoung09/ReadMeTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/jhyoung09/WEB_DEV-JamesHunterYoung?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/jhyoung09/WEB_JHYoung?style=flat-square
 [stars-url]: https://github.com/jhyoung09/ReadMeTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jhyoung09/WEB_DEV-JamesHunterYoung?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/jhyoung09/WEB_JHYoung?style=flat-square
 [issues-url]: https://github.com/jhyoung09/ReadMeTemplate/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jameshunteryoung/p
